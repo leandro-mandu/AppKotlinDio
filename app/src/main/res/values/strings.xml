@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">AppKotlinDio</string>
-    <string name="app_text">Desafio DIO:\nCriar um aplicativo com suporte a vários idiomas.</string>
+    <string name="app_text">Desafio DIO: Criar um aplicativo com suporte a vários idiomas.</string>
 </resources>

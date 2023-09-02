@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppKotlinDio</string>
+    <string name="app_text">Desafío DIO: crea una aplicación compatible con varios idiomas.</string>
+</resources>
